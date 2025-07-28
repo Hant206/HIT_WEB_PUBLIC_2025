@@ -1,0 +1,14 @@
+p{
+    color: blue;
+}
+h1{
+    color: blueviolet;
+    font-size: 24px;
+}
+h2{
+    color: aqua;
+    width: 50%;
+}
+.content{
+    color: chartreuse;
+}
